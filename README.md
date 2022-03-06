@@ -44,4 +44,22 @@
 <h4><b>16.Finally! After above steps, it will show you the final code of rclone config file, you can copy paste it in any Text Editor and after that type 'y' and hit Enter to confirm and then type 'q' tp quite the configuration of file.</b></h4>
 <img src="Img/15.png" alt="15">
 <img src="Img/16.png" alt="16">
+<h4><b>17.After Typing q and hitting Enter! The Download of rclone config file will automatically starts and save it in your Device.</b></h4>
+<img src="Img/17.png" alt="17">
+<h4><b>18.You can execute or run any Rclone command in this project! Just click on the Drop-down arrow of "Advanced Task" and that sit! Enjoy</b></h4>
+<img src="Img/18.png" alt="18">
 <!--- Step Area Ended --->
+<h2><b>🎯Points to be Remembered🎯</b></h2>
+<h4><b>1.Always choose No (n) for Auto-Config because we are not going to use Rclone on our Local Device/Machine otherwise login will not work!</b></h4>
+<h4><b>2.Don't forget to type '!' before executing any custom Rclone Command.</b></h4>
+<h2><b>Supported Command List</b></h2>
+<h4><b><a href="https://github.com/TheCaduceus/Rclone-Setup-on-Google-Colab/blob/main/Cmds.md">Show List</a></b></h4>
+<h2> 🔐 Safe or Not? ✅</h2>
+<h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Rclone-Setup-on-Google-Colab">Original code</a>.🔒</h4>
+<h4> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
+<h4> 3.Do not trust any other copy of this Code.📚</h4>
+<h2>⛑Contact Us!</h2>
+<h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
+<h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
+<h2>❤️Credits & Thanks</h2>
+<p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making UI and Collab Notebook.</p>
