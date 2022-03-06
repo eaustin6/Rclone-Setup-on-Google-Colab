@@ -57,12 +57,12 @@
 <h2><b>Supported Command List</b></h2>
 <h4><b><a href="https://github.com/TheCaduceus/Rclone-Setup-on-Google-Colab/blob/main/Cmds.md">Show List</a></b></h4>
 <h2> 🔐 Safe or Not? ✅</h2>
-<h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Rclone-Setup-on-Google-Colab">Original code</a>.🔒</h4>
-<h4> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
-<h4> 3.Do not trust any other copy of this Code.📚</h4>
+<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Rclone-Setup-on-Google-Colab">Original code</a>.🔒</b></h4>
+<h4><b> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</b></h4>
+<h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
 <h2>⛑Contact Us!</h2>
-<h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
-<h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
+<h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
+<h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2>❤️Credits & Thanks</h2>
 <p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Project and Guide.</b></p>
 <p><b><a href="https://rclone.org/">Rclone</a>: The Backbone of this Powerful Project.</b></p>
