@@ -49,6 +49,8 @@
 <h4><b>18.You can execute or run any Rclone command in this project! Just click on the Drop-down arrow of "Advanced Task" and that sit! Enjoy</b></h4>
 <img src="Img/18.png" alt="18">
 <!--- Step Area Ended --->
+<h2><b>Config File for More Clouds</b></h2>
+<p><b>You can learn creating config file for all Cloud Services: <a href="https://rclone.org/docs/">Learn it</a></b></p>
 <h2><b>🎯Points to be Remembered🎯</b></h2>
 <h4><b>1.Always choose No (n) for Auto-Config because we are not going to use Rclone on our Local Device/Machine otherwise login will not work!</b></h4>
 <h4><b>2.Don't forget to type '!' before executing any custom Rclone Command.</b></h4>
