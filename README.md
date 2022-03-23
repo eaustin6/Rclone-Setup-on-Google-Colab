@@ -18,9 +18,9 @@
 <!--- Step Area Begin --->
 <h3><b>🔌Before you Start!</b></h3>
 <h4><b>Please Connect your Google Account, So that Rclone can easily save its progress automatically.</b></h4>
-<img src="Img/rq-1">
+<img src="Img/rq-1.png">
 <h4><b>If you want to use your own Rclone config file or the progress saved in your Google Drive in My Drive! Then run the following Code as shown in the image</b></h4>
-<img src="Img/rq-2">
+<img src="Img/rq-2.png">
 
 <h4><b>1.First Open the Code on Google Colab: <a href="https://colab.research.google.com/github/TheCaduceus/Rclone-Setup-on-Google-Colab/blob/main/Rclone.ipynb" alt="Open Code">Open Code</a></b></h4>
 <h4><b>2.Now,Before performing anything Run the Code as shown in the Image to download Setup and configure Rclone!</b></h4>
