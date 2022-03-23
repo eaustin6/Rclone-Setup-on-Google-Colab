@@ -31,7 +31,7 @@
 <img src="Img/3.png" alt="3">
 <h4><b>5.Type n and hit Enter to create a new Config file or Remote and give name, So that you can identify it in future</b></h4>
 <img src="Img/4.png" alt="4">
-<h4><b>6.Now after Entering the name! You have to choose the cloud for which you have to make config file or remote (by typing its list number), like if you need to make config file or remote of Google Drive then type number "16" and hit Enter</b></h4>
+<h4><b>6.Now after Entering the name! You have to choose the cloud for which you have to make config file or remote (by typing its list number), like if you need to make config file or remote of Google Drive then type number "17" and hit Enter</b></h4>
 <img src="Img/5.png" alt="5">
 <h4><b>7.If you don't know about Client ID and Client Secret then just hit Enter without entering anything! Otherwise this can be used to bypass login into your Google Account</b></h4>
 <img src="Img/6.png" alt="6">
