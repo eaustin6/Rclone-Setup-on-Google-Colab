@@ -1,6 +1,10 @@
 # Rclone on Google Colab (Advanced!) 🔥
 <p><b>Setup and Start using Rclone on Google Colab and Create/Edit/View and delete your Rclone config file and keep them always with you using this! No matters which device you are on! Use Anywhere and Anytime and perform all Rclone task and immediately save it!</b></p>
 <h2><b>🆕What's New!🆕</b></h2>
+<p><b><i>v2.2.3<i><b></p>
+<h4><b>1.Rclone will now auto-fetch the saved progress including Rclone config file (If Any) from your Google Drive (My Drive).🔥</b></h4>
+<h4><b>2.Now you can use your own Rclone Config File! Just upload it to your My Drive and fetch it</b>🙃</h4>
+<p><b><i>v2.2.1</i></b></p>
 <h4><b>1.Create/Delete/Edit Rclone config file/remote!🤩</b></h4>
 <h4><b>2.Download Rclone config file!😀</b></h4>
 <h4><b>3.Support all Rclone Commands!😎</b></h4>
@@ -12,6 +16,12 @@
 <h4><b>This Project makes it easy and possible to Perform every Rclone Task on Google Colaborately and Store your progress on the cloud and continue it where you left it anytime and anywhere! This Project comes with In-Build support to perform basic task like Creating/Editing/Viewing and Deleteing and also Downloading your Rclone Config file which is needed by almost all Rclone User to perform task! To execute any rclone command you just need to type "!rclone" (After installing Required Setup Files) before any command like "!rclone config" where config is the Command name!</b></h4>
 <h2><b>⚙️ How to use?</b></h2>
 <!--- Step Area Begin --->
+<h3><b>🔌Before you Start!</b></h3>
+<h4><b>Please Connect your Google Account, So that Rclone can easily save its progress automatically.</b></h4>
+<img src="Img/rq-1">
+<h4><b>If you want to use your own Rclone config file or the progress saved in your Google Drive in My Drive! Then run the following Code as shown in the image</b></h4>
+<img src="Img/rq-2">
+
 <h4><b>1.First Open the Code on Google Colab: <a href="https://colab.research.google.com/github/TheCaduceus/Rclone-Setup-on-Google-Colab/blob/main/Rclone.ipynb" alt="Open Code">Open Code</a></b></h4>
 <h4><b>2.Now,Before performing anything Run the Code as shown in the Image to download Setup and configure Rclone!</b></h4>
 <img src="Img/1.png" alt="1">
@@ -51,7 +61,7 @@
 <!--- Step Area Ended --->
 <h2><b>📑Creating Config File for More Clouds</b></h2>
 <p><b>You can learn creating config file for all Cloud Services: <a href="https://rclone.org/docs/">Learn Here</a></b></p>
-<h2><b>🎯Points to be Remembered🎯</b></h2>
+<h2><b>🎯Points to be Remembere</b></h2>
 <h4><b>1.Always choose No (n) for Auto-Config because we are not going to use Rclone on our Local Device/Machine otherwise login will not work!</b></h4>
 <h4><b>2.Don't forget to type '!' before executing any custom Rclone Command.</b></h4>
 <h2><b>Supported Command List</b></h2>
