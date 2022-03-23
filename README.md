@@ -61,7 +61,7 @@
 <!--- Step Area Ended --->
 <h2><b>📑Creating Config File for More Clouds</b></h2>
 <p><b>You can learn creating config file for all Cloud Services: <a href="https://rclone.org/docs/">Learn Here</a></b></p>
-<h2><b>🎯Points to be Remembere</b></h2>
+<h2><b>🎯Points to be Remembered</b></h2>
 <h4><b>1.Always choose No (n) for Auto-Config because we are not going to use Rclone on our Local Device/Machine otherwise login will not work!</b></h4>
 <h4><b>2.Don't forget to type '!' before executing any custom Rclone Command.</b></h4>
 <h4><b>3.For Safety! Rclone will always save progress in your My Drive! Not in any of your Shared Drive.</b></h4>
