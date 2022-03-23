@@ -14,14 +14,13 @@
 <h4><b>2.For auto-config always choose No(n) because we are going to run the Rclone not on our own local device! Otherwise login will not work.</b></h4>
 <h2><b>📝 Introduction</b></h2>
 <h4><b>This Project makes it easy and possible to Perform every Rclone Task on Google Colaborately and Store your progress on the cloud and continue it where you left it anytime and anywhere! This Project comes with In-Build support to perform basic task like Creating/Editing/Viewing and Deleteing and also Downloading your Rclone Config file which is needed by almost all Rclone User to perform task! To execute any rclone command you just need to type "!rclone" (After installing Required Setup Files) before any command like "!rclone config" where config is the Command name!</b></h4>
-<h2><b>⚙️ How to use?</b></h2>
 <!--- Step Area Begin --->
-<h3><b>🔌Before you Start!</b></h3>
+<h2><b>🔌Before you Start!</b></h2>
 <h4><b>Please Connect your Google Account, So that Rclone can easily save its progress automatically.</b></h4>
 <img src="Img/rq-1.png">
 <h4><b>If you want to use your own Rclone config file or the progress saved in your Google Drive in My Drive! Then run the following Code as shown in the image</b></h4>
 <img src="Img/rq-2.png">
-
+<h2><b>⚙️ How to use?</b></h2>
 <h4><b>1.First Open the Code on Google Colab: <a href="https://colab.research.google.com/github/TheCaduceus/Rclone-Setup-on-Google-Colab/blob/main/Rclone.ipynb" alt="Open Code">Open Code</a></b></h4>
 <h4><b>2.Now,Before performing anything Run the Code as shown in the Image to download Setup and configure Rclone!</b></h4>
 <img src="Img/1.png" alt="1">
