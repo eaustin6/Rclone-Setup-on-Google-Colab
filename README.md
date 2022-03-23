@@ -4,6 +4,7 @@
 <p><b><i>v2.2.3<i><b></p>
 <h4><b>1.Rclone will now auto-fetch the saved progress including Rclone config file (If Any) from your Google Drive (My Drive).🔥</b></h4>
 <h4><b>2.Now you can use your own Rclone Config File! Just upload it to your My Drive and fetch it</b>🙃</h4>
+<h4><b>3.File will be shifted to Google Drive at place of starting download to your Device!</b></h4>
 <p><b><i>v2.2.1</i></b></p>
 <h4><b>1.Create/Delete/Edit Rclone config file/remote!🤩</b></h4>
 <h4><b>2.Download Rclone config file!😀</b></h4>
