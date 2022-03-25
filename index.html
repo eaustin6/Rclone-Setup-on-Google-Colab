@@ -54,18 +54,25 @@
       <h1 id="rclone-on-google-colab-advanced-">Rclone on Google Colab (Advanced!) 🔥</h1>
 <p><b>Setup and Start using Rclone on Google Colab and Create/Edit/View and delete your Rclone config file and keep them always with you using this! No matters which device you are on! Use Anywhere and Anytime and perform all Rclone task and immediately save it!</b></p>
 <h2><b>🆕What's New!🆕</b></h2>
-<p><b><i>v2.2.3<i><b></p>
+<p><b><i>v2.2.4 (R-1.58.0)<i><b></p>
+<h4><b>1.Project upgraded & optimized for Rclone 1.58.0 ☺️</b></h4>
+<h4><b>2.Multi Cloud Transfer Tool (in Beta)</b></h4>
+<h4><b>3.Guide Updated and Steps are added for new auto-config authorization.</b></h4>
+<p><b><i>v2.2.3 (Migrating to 1.58.O Beta)<i><b></p>
 <h4><b>1.Rclone will now auto-fetch the saved progress including Rclone config file (If Any) from your Google Drive (My Drive).🔥</b></h4>
 <h4><b>2.Now you can use your own Rclone Config File! Just upload it to your My Drive and fetch it</b>🙃</h4>
-<h4><b>3.File will be shifted to Google Drive at place of starting download to your Device!🫠</b></h4>
-<p><b><i>v2.2.1</i></b></p>
+<h4><b>3.File will be shifted to Google Drive at place of starting download to your Device!</b></h4>
+<p><b><i>v2.2.1 (R-1.57.0)</i></b></p>
 <h4><b>1.Create/Delete/Edit Rclone config file/remote!🤩</b></h4>
 <h4><b>2.Download Rclone config file!😀</b></h4>
 <h4><b>3.Support all Rclone Commands!😎</b></h4>
 <h4><b>4.Store your Rclone progress on Cloud and access it from anywhere!😉</b></h4>
 <h2><b>⛔ NOTICE</b></h2>
-<h4><b><i>1.In Latest Rclone Version v1.58.0, they made some changes in Auto-Config. Don't worry I am aware of that and till that you can either follow the New Steps or if you are making config file for Google Drive then you can provide your CLIENT ID and CLIENT SECRET to Work around that situation! I will update you in my Update Channel ,once I find some alternative to help you out in that Step.</i></b></h4>
-<h4><b>2.For auto-config always choose No(n) because we are going to run the Rclone not on our own local device! Otherwise login will not work.</b></h4>
+<h4><b>1.The Project is now updated and everything is optimized for new changes made by Rclone v1.58.0 written in 2nd point.</b></h4>
+<h4><b>2.In Latest Rclone Version v1.58.0, they made some changes in Auto-Config. Don't worry I am aware of that and till that you can either follow the New Steps or if you are making config file for Google Drive then you can provide your CLIENT ID and CLIENT SECRET to Work around that situation! I will update you in my Update Channel ,once I find some alternative to help you out in that Step.</b></h4>
+<h4><b>3.For auto-config always choose No(n) because we are going to run the Rclone not on our own local device! Otherwise login will not work.</b></h4>
+<h2><b>📝 Introduction</b></h2>
+<h4><b>This Project makes it easy and possible to Perform every Rclone Task on Google Colaborately and Store your progress on the cloud and continue it where you left it anytime and anywhere! This Project comes with In-Build support to perform basic task like Creating/Editing/Viewing and Deleteing and also Downloading your Rclone Config file which is needed by almost all Rclone User to perform task! To execute any rclone command you just need to type "!rclone" (After installing Required Setup Files) before any command like "!rclone config" where config is the Command name!</b></h4>
 <h2><b>📝 Introduction</b></h2>
 <h4><b>This Project makes it easy and possible to Perform every Rclone Task on Google Colaborately and Store your progress on the cloud and continue it where you left it anytime and anywhere! This Project comes with In-Build support to perform basic task like Creating/Editing/Viewing and Deleteing and also Downloading your Rclone Config file which is needed by almost all Rclone User to perform task! To execute any rclone command you just need to type "!rclone" (After installing Required Setup Files) before any command like "!rclone config" where config is the Command name!</b></h4>
 <h2><b>🔌Before you Start!</b></h2>
@@ -98,9 +105,31 @@
 <p><img src="Img/10.png" alt="10" /></p>
 <h4><b>12.This is a important step! For Auto-Config write 'n' and hit Enter because here we are using a Remote Machine which is not our Device! So always choose 'n' otherwise login will not work.
 <img src="Img/11.png" alt="11" />
-<h4><b>13.After above step! Rclone will give you an URL, You have to copy that URL and paste and open it on new tab and log in with your Google Account. After login, you will get a code just copy and paste it here as shown in the Image</b></h4>
-<img src="Img/12.png" alt="12" />
-<img src="Img/13.png" alt="13" />
+<h4><b>13.Now Rclone will ask you to type something like "rclone authorize "drive" "XXXXXXXXXXX" in your own Computer or Mobile Phone! Please read the following steps carefully!<b></h4>
+<h3><b>For 📲Mobile Phones:</b></h3>
+<h4><b>1.First Download Termux App in your Phone: <a href="https://play.google.com/store/apps/details?id=com.termux">Android</a> | <a href="https://apps.apple.com/us/app/xterminal-ssh-terminal-shell/id1544728400">iOS</a></b></h4>
+<h4><b>2.Now Run the Following Commands one by one in it!</b></h4>
+<p><b>
+  1.pkg install rclone<br>
+  2.Command given by Rclone in STEP 13!<br>
+  </b></p>
+<h4><b>3.After it! Rclone will open Browser for login into your Account!</b></h4>
+<img src="Img/19.jpg">
+<h4><b>4.Once you Successfully login! Return back to Termux App and copy the code which will apper there and paste it into the Google Colab to continue!</b></h4>
+<h3><b>For 🖥️PC:</b></h3>
+<h4><b>1.Download Rclone, as per the Operating-System in your PC: <a href="https://rclone.org/downloads/">Download Now</a></b></h4>
+<h3><b>For Windows:</b></h3>
+<h4><b>2.After Downloading Rclone zip for Windows! Extract it and open the Folder as shown in the Image.</b></h4>
+<img src="Img/20.png">
+<h4><b>3.Now type CMD in the Address bar and hit Enter to configure CMD in that folder and to use Rclone.</b></h4>
+<img src="Img/21.png">
+<h4><b>4.It will open CMD, Now Enter the command given by Rclone in the STEP 13 written above. It will open the Browser, so just login into your account return back to CMD Window</b></h4>
+<img src="Img/22.png">
+<h4><b>5.Once you login successfully! A Code will be visible. Just copy the code and paste it in Google Colab to continue.</b></h4>
+<h3><b><i>For Linux:</i></b></h3>
+<p><b>Read Here: <a href="https://www.addictivetips.com/ubuntu-linux-tips/set-up-rclone-for-linux/">Rclone on Linux</a></b></p>
+<h3><b><i>For MacOS:</i></b></h3>
+<p><b>Read Here: <a href="https://roadtopetabyte.medium.com/tutorial-how-to-install-rclone-and-configure-rclone-browser-on-your-mac-rclone-gui-for-macos-a97e13925ab0">Rclone on MacOS</a></b></p>
 <h4><b>14.Now, it will ask you if you want to use Shared Drive or not ? y for Yes and n for No.</b></h4>
 <h4><b>15.If you want to use Shared Drive then it will ask you to choose the list number of Shared Drive from the list shown (of available Shared Drive in your Account.)</b></h4>
 <img src="Img/14.png" alt="14" />
