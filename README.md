@@ -52,7 +52,7 @@
 <img src="Img/11.png" alt="11">
 <h4><b>13.Now Rclone will ask you to type something like "rclone authorize "drive" "XXXXXXXXXXX" in your own Computer or Mobile Phone! Please read the following steps carefully!<b></h4>
 <h3><b>For 📲Mobile Phones:</b></h3>
-<h4><b>1.First Download Termux App in your Phone: <a href="https://play.google.com/store/apps/details?id=com.termux">Android</a>|<a href="https://apps.apple.com/us/app/xterminal-ssh-terminal-shell/id1544728400">iOS</a></b></h4>
+<h4><b>1.First Download Termux App in your Phone: <a href="https://play.google.com/store/apps/details?id=com.termux">Android</a> | <a href="https://apps.apple.com/us/app/xterminal-ssh-terminal-shell/id1544728400">iOS</a></b></h4>
 <h4><b>2.Now Run the Following Commands one by one in it!</b></h4>
 <p><b>
   1.pkg install rclone<br>
